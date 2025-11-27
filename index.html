@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #ECECEC"></canvas>
-    <script src="Build/559f5f274fe3e4c1107175ae7dba75e5.loader.js"></script>
+    <script src="Build/57906dbd5ea3f73b2beb2f1bd957c59b.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -27,9 +27,9 @@
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
         arguments: [],
-        dataUrl: "Build/c6368277b4f77dbf55d3b90b28718bc6.data",
-        frameworkUrl: "Build/041c79f1a5b7916212c9d0e57e7ba46d.framework.js",
-        codeUrl: "Build/55c5aceaf73e14c67c5afbb1a6be34f3.wasm",
+        dataUrl: "Build/7658fbbbe2d56c800caa483e3437add7.data",
+        frameworkUrl: "Build/86a9c8cb928a720b6729aad30a81b65e.framework.js",
+        codeUrl: "Build/19fe048a5fd1573dadd77dfced221fff.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Victoria University",
         productName: "VU Maps",
@@ -38,6 +38,7 @@
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
         //autoSyncPersistentDataPath: true,
       }).then((unityInstance) => {
+        //unityInstance.SendMessage('MenuManager', 'ReceiveStringFromBrowser', 'Initial message from JS');
       }).catch((message) => {
         alert(message);
       });
