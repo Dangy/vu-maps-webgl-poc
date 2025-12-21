@@ -1,0 +1,11 @@
+{
+  "Type": "floor",
+  "IsVisible": true,
+  "DisplayName": "Level 1",
+  "HierarchyName": "Werribee>Building 1W>1W1",
+  "SVG_String": "\\_Maps/Werribee\\Building 1W\\1W1\\Werribee-Building 1W-1W1.svg",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "FloorNumber": 1
+}

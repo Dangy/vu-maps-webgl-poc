@@ -1,0 +1,11 @@
+{
+  "Type": "floor",
+  "IsVisible": true,
+  "DisplayName": "Level 1",
+  "HierarchyName": "Footscray Nicholson>Building T>T01",
+  "SVG_String": "\\_Maps/Footscray Nicholson\\Building T\\T01\\Footscray Nicholson-Building T-T01.svg",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "FloorNumber": 1
+}

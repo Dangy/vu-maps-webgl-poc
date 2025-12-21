@@ -1,0 +1,13 @@
+{
+  "Type": "building",
+  "IsVisible": true,
+  "DisplayName": "Building 3",
+  "HierarchyName": "St Albans>Building 3",
+  "SVG_String": "",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "Floors": [
+    "\\_Maps/St Albans\\Building 3\\3-1\\St Albans-Building 3-3-1.floor.json"
+  ]
+}

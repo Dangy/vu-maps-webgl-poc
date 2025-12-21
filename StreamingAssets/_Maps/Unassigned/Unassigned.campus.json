@@ -1,0 +1,11 @@
+{
+  "Type": "campus",
+  "IsVisible": false,
+  "DisplayName": "Unassigned",
+  "HierarchyName": "Unassigned",
+  "SVG_String": "",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "Buildings": []
+}

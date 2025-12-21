@@ -1,0 +1,11 @@
+{
+  "Type": "floor",
+  "IsVisible": true,
+  "DisplayName": "Ground Floor",
+  "HierarchyName": "Metro West>Metro West>GL",
+  "SVG_String": "\\_Maps/Metro West\\Metro West\\GL\\Metro West-Metro West-GL.svg",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "FloorNumber": 1
+}

@@ -1,0 +1,13 @@
+{
+  "Type": "building",
+  "IsVisible": true,
+  "DisplayName": "Building 8W",
+  "HierarchyName": "Werribee>Building 8W",
+  "SVG_String": "",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "Floors": [
+    "\\_Maps/Werribee\\Building 8W\\8W1\\Werribee-Building 8W-8W1.floor.json"
+  ]
+}
