@@ -4,15 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity Web Player | VU Maps</title>
-    <link rel="stylesheet" href="TemplateData/diagnostics.css">
-    <script src="TemplateData/diagnostics.js"></script>
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=960 height=600 tabindex="-1" style="width: 960px; height: 600px; background: #ECECEC"></canvas>
-    <div id="unity-footer">
-        <img id="diagnostics-icon" src="TemplateData/webmemd-icon.png">
-    </div>
-    <script src="Build/867c5b1a4d0c7e714846373132021309.loader.js"></script>
+    <script src="Build/653dba10acf61fa5dbf5a743aeb5e50c.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -28,19 +23,13 @@
 
         document.body.style.textAlign = "left";
 
-        // position the diagnostics icon in the corner on the canvas
-        let diagnostics_icon = document.getElementById("diagnostics-icon");
-        diagnostics_icon.style.position = "fixed";
-        diagnostics_icon.style.bottom = "10px";
-        diagnostics_icon.style.right = "0px";
-        canvas.after(diagnostics_icon);
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
         arguments: [],
-        dataUrl: "Build/1d0f241bf00723e13596689d123b977e.data.unityweb",
-        frameworkUrl: "Build/cddf33471534f3cebbf52748c6d507bf.framework.js.unityweb",
-        codeUrl: "Build/99703c8939042b8d1c5566d9523b085f.wasm.unityweb",
+        dataUrl: "Build/0268347ce8eaab11a5879d4b6191b256.data.unityweb",
+        frameworkUrl: "Build/041c79f1a5b7916212c9d0e57e7ba46d.framework.js.unityweb",
+        codeUrl: "Build/1bf072733d1c7b28cc33a1b42ae6bbd9.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Victoria University",
         productName: "VU Maps",
@@ -49,9 +38,6 @@
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
         //autoSyncPersistentDataPath: true,
       }).then((unityInstance) => {
-        document.getElementById("diagnostics-icon").onclick = () => {
-            unityDiagnostics.openDiagnosticsDiv(unityInstance.GetMetricsInfo);
-        };
         //unityInstance.SendMessage('MenuManager', 'ReceiveStringFromBrowser', 'Initial message from JS');
       }).catch((message) => {
         alert(message);
