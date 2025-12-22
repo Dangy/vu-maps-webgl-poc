@@ -1,0 +1,20 @@
+{
+  "Type": "campus",
+  "IsVisible": true,
+  "DisplayName": "Werribee",
+  "HierarchyName": "Werribee",
+  "SVG_String": "\\_Maps/Werribee\\Werribee.svg",
+  "LatitudeOfMapCentre": -37.8897688,
+  "LongitudeOfMapCentre": 144.7001113,
+  "MapScale": 2.65,
+  "Buildings": [
+    "\\_Maps/Werribee\\Outdoor\\Werribee-Outdoor.building.json",
+    "\\_Maps/Werribee\\Building 2W\\Werribee-Building 2W.building.json",
+    "\\_Maps/Werribee\\Building 6W\\Werribee-Building 6W.building.json",
+    "\\_Maps/Werribee\\Building 7W\\Werribee-Building 7W.building.json",
+    "\\_Maps/Werribee\\Building 4W\\Werribee-Building 4W.building.json",
+    "\\_Maps/Werribee\\Building 8W\\Werribee-Building 8W.building.json",
+    "\\_Maps/Werribee\\Building 1W\\Werribee-Building 1W.building.json",
+    "\\_Maps/Werribee\\Building 3W\\Werribee-Building 3W.building.json"
+  ]
+}

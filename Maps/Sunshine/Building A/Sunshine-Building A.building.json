@@ -1,0 +1,15 @@
+{
+  "Type": "building",
+  "IsVisible": true,
+  "DisplayName": "Building A",
+  "HierarchyName": "Sunshine>Building A",
+  "SVG_String": "",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "Floors": [
+    "\\_Maps/Sunshine\\Building A\\A01\\Sunshine-Building A-A01.floor.json",
+    "\\_Maps/Sunshine\\Building A\\A02\\Sunshine-Building A-A02.floor.json",
+    "\\_Maps/Sunshine\\Building A\\A03\\Sunshine-Building A-A03.floor.json"
+  ]
+}

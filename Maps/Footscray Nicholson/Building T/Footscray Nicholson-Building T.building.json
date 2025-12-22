@@ -1,0 +1,16 @@
+{
+  "Type": "building",
+  "IsVisible": true,
+  "DisplayName": "Building T",
+  "HierarchyName": "Footscray Nicholson>Building T",
+  "SVG_String": "",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "Floors": [
+    "\\_Maps/Footscray Nicholson\\Building T\\T00\\Footscray Nicholson-Building T-T00.floor.json",
+    "\\_Maps/Footscray Nicholson\\Building T\\T01\\Footscray Nicholson-Building T-T01.floor.json",
+    "\\_Maps/Footscray Nicholson\\Building T\\T02\\Footscray Nicholson-Building T-T02.floor.json",
+    "\\_Maps/Footscray Nicholson\\Building T\\T03\\Footscray Nicholson-Building T-T03.floor.json"
+  ]
+}

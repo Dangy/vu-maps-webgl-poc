@@ -1,0 +1,11 @@
+{
+  "Type": "floor",
+  "IsVisible": true,
+  "DisplayName": "Level 4",
+  "HierarchyName": "Footscray Park>Building E>E4",
+  "SVG_String": "\\_Maps/Footscray Park\\Building E\\E4\\Footscray Park-Building E-E4.svg",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "FloorNumber": 4
+}

@@ -1,0 +1,11 @@
+{
+  "Type": "floor",
+  "IsVisible": true,
+  "DisplayName": "Level 3",
+  "HierarchyName": "Sunshine>Building A>A03",
+  "SVG_String": "\\_Maps/Sunshine\\Building A\\A03\\Sunshine-Building A-A03.svg",
+  "LatitudeOfMapCentre": 0.0,
+  "LongitudeOfMapCentre": 0.0,
+  "MapScale": 0.0,
+  "FloorNumber": 3
+}

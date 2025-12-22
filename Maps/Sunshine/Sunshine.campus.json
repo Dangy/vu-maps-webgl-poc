@@ -1,0 +1,17 @@
+{
+  "Type": "campus",
+  "IsVisible": true,
+  "DisplayName": "Sunshine",
+  "HierarchyName": "Sunshine",
+  "SVG_String": "\\_Maps/Sunshine\\Sunshine.svg",
+  "LatitudeOfMapCentre": -37.7766387,
+  "LongitudeOfMapCentre": 144.8354339,
+  "MapScale": 2.4,
+  "Buildings": [
+    "\\_Maps/Sunshine\\Building W\\Sunshine-Building W.building.json",
+    "\\_Maps/Sunshine\\Building C\\Sunshine-Building C.building.json",
+    "\\_Maps/Sunshine\\Building E\\Sunshine-Building E.building.json",
+    "\\_Maps/Sunshine\\Building F\\Sunshine-Building F.building.json",
+    "\\_Maps/Sunshine\\Building A\\Sunshine-Building A.building.json"
+  ]
+}
