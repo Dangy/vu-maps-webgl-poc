@@ -3,15 +3,15 @@
   "IsVisible": true,
   "DisplayName": "Building D",
   "HierarchyName": "Footscray Nicholson>Building D",
-  "SVG_String": "\\_Maps/Footscray Nicholson\\Building D\\Footscray Nicholson-Building D.svg",
+  "SVG_String": "\\Maps/Footscray Nicholson\\Building D\\Footscray Nicholson-Building D.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Footscray Nicholson\\Building D\\D1\\Footscray Nicholson-Building D-D1.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building D\\D2\\Footscray Nicholson-Building D-D2.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building D\\D3\\Footscray Nicholson-Building D-D3.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building D\\D4\\Footscray Nicholson-Building D-D4.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building D\\D5\\Footscray Nicholson-Building D-D5.floor.json"
+    "\\Maps/Footscray Nicholson\\Building D\\D1\\Footscray Nicholson-Building D-D1.floor.json",
+    "\\Maps/Footscray Nicholson\\Building D\\D2\\Footscray Nicholson-Building D-D2.floor.json",
+    "\\Maps/Footscray Nicholson\\Building D\\D3\\Footscray Nicholson-Building D-D3.floor.json",
+    "\\Maps/Footscray Nicholson\\Building D\\D4\\Footscray Nicholson-Building D-D4.floor.json",
+    "\\Maps/Footscray Nicholson\\Building D\\D5\\Footscray Nicholson-Building D-D5.floor.json"
   ]
 }

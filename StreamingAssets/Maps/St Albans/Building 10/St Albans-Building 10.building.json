@@ -8,7 +8,7 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/St Albans\\Building 10\\10-1\\St Albans-Building 10-10-1.floor.json",
-    "\\_Maps/St Albans\\Building 10\\10-2\\St Albans-Building 10-10-2.floor.json"
+    "\\Maps/St Albans\\Building 10\\10-1\\St Albans-Building 10-10-1.floor.json",
+    "\\Maps/St Albans\\Building 10\\10-2\\St Albans-Building 10-10-2.floor.json"
   ]
 }

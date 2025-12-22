@@ -8,6 +8,6 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Metro West\\Metro West\\GL\\Metro West-Metro West-GL.floor.json"
+    "\\Maps/Metro West\\Metro West\\GL\\Metro West-Metro West-GL.floor.json"
   ]
 }

@@ -3,21 +3,21 @@
   "IsVisible": true,
   "DisplayName": "St Albans",
   "HierarchyName": "St Albans",
-  "SVG_String": "\\_Maps/St Albans\\St Albans.svg",
+  "SVG_String": "\\Maps/St Albans\\St Albans.svg",
   "LatitudeOfMapCentre": -37.7516427,
   "LongitudeOfMapCentre": 144.7978198,
   "MapScale": 2.12,
   "Buildings": [
-    "\\_Maps/St Albans\\Building 2\\St Albans-Building 2.building.json",
-    "\\_Maps/St Albans\\Building 6\\St Albans-Building 6.building.json",
-    "\\_Maps/St Albans\\Building 8\\St Albans-Building 8.building.json",
-    "\\_Maps/St Albans\\Building 5\\St Albans-Building 5.building.json",
-    "\\_Maps/St Albans\\Building 11\\St Albans-Building 11.building.json",
-    "\\_Maps/St Albans\\Building 10\\St Albans-Building 10.building.json",
-    "\\_Maps/St Albans\\Building 7\\St Albans-Building 7.building.json",
-    "\\_Maps/St Albans\\Outdoor\\St Albans-Outdoor.building.json",
-    "\\_Maps/St Albans\\Building 3\\St Albans-Building 3.building.json",
-    "\\_Maps/St Albans\\Building 4\\St Albans-Building 4.building.json",
-    "\\_Maps/St Albans\\Building 9\\St Albans-Building 9.building.json"
+    "\\Maps/St Albans\\Building 2\\St Albans-Building 2.building.json",
+    "\\Maps/St Albans\\Building 6\\St Albans-Building 6.building.json",
+    "\\Maps/St Albans\\Building 8\\St Albans-Building 8.building.json",
+    "\\Maps/St Albans\\Building 5\\St Albans-Building 5.building.json",
+    "\\Maps/St Albans\\Building 11\\St Albans-Building 11.building.json",
+    "\\Maps/St Albans\\Building 10\\St Albans-Building 10.building.json",
+    "\\Maps/St Albans\\Building 7\\St Albans-Building 7.building.json",
+    "\\Maps/St Albans\\Outdoor\\St Albans-Outdoor.building.json",
+    "\\Maps/St Albans\\Building 3\\St Albans-Building 3.building.json",
+    "\\Maps/St Albans\\Building 4\\St Albans-Building 4.building.json",
+    "\\Maps/St Albans\\Building 9\\St Albans-Building 9.building.json"
   ]
 }

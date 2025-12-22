@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Ground Floor",
   "HierarchyName": "VU Sydney>VU Sydney>Ground Floor",
-  "SVG_String": "\\_Maps/VU Sydney\\VU Sydney\\Ground Floor\\VU Sydney-VU Sydney-Ground Floor.svg",
+  "SVG_String": "\\Maps/VU Sydney\\VU Sydney\\Ground Floor\\VU Sydney-VU Sydney-Ground Floor.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

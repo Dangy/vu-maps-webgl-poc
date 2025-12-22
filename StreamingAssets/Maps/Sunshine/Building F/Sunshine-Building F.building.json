@@ -8,7 +8,7 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Sunshine\\Building F\\F01\\Sunshine-Building F-F01.floor.json",
-    "\\_Maps/Sunshine\\Building F\\F02\\Sunshine-Building F-F02.floor.json"
+    "\\Maps/Sunshine\\Building F\\F01\\Sunshine-Building F-F01.floor.json",
+    "\\Maps/Sunshine\\Building F\\F02\\Sunshine-Building F-F02.floor.json"
   ]
 }

@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Level 2",
   "HierarchyName": "Sunshine>Building W>W02",
-  "SVG_String": "\\_Maps/Sunshine\\Building W\\W02\\Sunshine-Building W-W02.svg",
+  "SVG_String": "\\Maps/Sunshine\\Building W\\W02\\Sunshine-Building W-W02.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

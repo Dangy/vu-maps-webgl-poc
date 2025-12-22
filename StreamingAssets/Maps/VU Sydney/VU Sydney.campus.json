@@ -3,11 +3,11 @@
   "IsVisible": true,
   "DisplayName": "VU Sydney",
   "HierarchyName": "VU Sydney",
-  "SVG_String": "\\_Maps/VU Sydney\\VU Sydney.svg",
+  "SVG_String": "\\Maps/VU Sydney\\VU Sydney.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Buildings": [
-    "\\_Maps/VU Sydney\\VU Sydney\\VU Sydney-VU Sydney.building.json"
+    "\\Maps/VU Sydney\\VU Sydney\\VU Sydney-VU Sydney.building.json"
   ]
 }

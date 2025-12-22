@@ -5,13 +5,13 @@
   "HierarchyName": "VU",
   "MapScale": 0.0,
   "Campuses": [
-    "\\_Maps/Footscray Nicholson\\Footscray Nicholson.campus.json",
-    "\\_Maps/Footscray Park\\Footscray Park.campus.json",
-    "\\_Maps/St Albans\\St Albans.campus.json",
-    "\\_Maps/Sunshine\\Sunshine.campus.json",
-    "\\_Maps/Metro West\\Metro West.campus.json",
-    "\\_Maps/Werribee\\Werribee.campus.json",
-    "\\_Maps/VU Sydney\\VU Sydney.campus.json",
-    "\\_Maps/Unassigned\\Unassigned.campus.json"
+    "\\Maps/Footscray Nicholson\\Footscray Nicholson.campus.json",
+    "\\Maps/Footscray Park\\Footscray Park.campus.json",
+    "\\Maps/St Albans\\St Albans.campus.json",
+    "\\Maps/Sunshine\\Sunshine.campus.json",
+    "\\Maps/Metro West\\Metro West.campus.json",
+    "\\Maps/Werribee\\Werribee.campus.json",
+    "\\Maps/VU Sydney\\VU Sydney.campus.json",
+    "\\Maps/Unassigned\\Unassigned.campus.json"
   ]
 }

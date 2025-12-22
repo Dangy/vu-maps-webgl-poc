@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Level 2",
   "HierarchyName": "Footscray Park>Building E>E2",
-  "SVG_String": "\\_Maps/Footscray Park\\Building E\\E2\\Footscray Park-Building E-E2.svg",
+  "SVG_String": "\\Maps/Footscray Park\\Building E\\E2\\Footscray Park-Building E-E2.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Level 2",
   "HierarchyName": "St Albans>Building 11>11-2",
-  "SVG_String": "\\_Maps/St Albans\\Building 11\\11-2\\St Albans-Building 11-11-2.svg",
+  "SVG_String": "\\Maps/St Albans\\Building 11\\11-2\\St Albans-Building 11-11-2.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

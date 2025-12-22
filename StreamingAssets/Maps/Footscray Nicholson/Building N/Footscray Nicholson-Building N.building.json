@@ -8,8 +8,8 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Footscray Nicholson\\Building N\\N00\\Footscray Nicholson-Building N-N00.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building N\\N01\\Footscray Nicholson-Building N-N01.floor.json",
-    "\\_Maps/Footscray Nicholson\\Building N\\N02\\Footscray Nicholson-Building N-N02.floor.json"
+    "\\Maps/Footscray Nicholson\\Building N\\N00\\Footscray Nicholson-Building N-N00.floor.json",
+    "\\Maps/Footscray Nicholson\\Building N\\N01\\Footscray Nicholson-Building N-N01.floor.json",
+    "\\Maps/Footscray Nicholson\\Building N\\N02\\Footscray Nicholson-Building N-N02.floor.json"
   ]
 }

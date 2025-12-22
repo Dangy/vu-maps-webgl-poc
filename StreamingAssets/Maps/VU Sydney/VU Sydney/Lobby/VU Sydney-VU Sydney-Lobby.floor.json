@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Lobby",
   "HierarchyName": "VU Sydney>VU Sydney>Lobby",
-  "SVG_String": "\\_Maps/VU Sydney\\VU Sydney\\Lobby\\VU Sydney-VU Sydney-Lobby.svg",
+  "SVG_String": "\\Maps/VU Sydney\\VU Sydney\\Lobby\\VU Sydney-VU Sydney-Lobby.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

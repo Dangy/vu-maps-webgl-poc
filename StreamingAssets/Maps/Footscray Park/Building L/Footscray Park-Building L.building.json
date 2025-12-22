@@ -8,10 +8,10 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Footscray Park\\Building L\\L0\\Footscray Park-Building L-L0.floor.json",
-    "\\_Maps/Footscray Park\\Building L\\L1\\Footscray Park-Building L-L1.floor.json",
-    "\\_Maps/Footscray Park\\Building L\\L2\\Footscray Park-Building L-L2.floor.json",
-    "\\_Maps/Footscray Park\\Building L\\L3\\Footscray Park-Building L-L3.floor.json",
-    "\\_Maps/Footscray Park\\Building L\\L4\\Footscray Park-Building L-L4.floor.json"
+    "\\Maps/Footscray Park\\Building L\\L0\\Footscray Park-Building L-L0.floor.json",
+    "\\Maps/Footscray Park\\Building L\\L1\\Footscray Park-Building L-L1.floor.json",
+    "\\Maps/Footscray Park\\Building L\\L2\\Footscray Park-Building L-L2.floor.json",
+    "\\Maps/Footscray Park\\Building L\\L3\\Footscray Park-Building L-L3.floor.json",
+    "\\Maps/Footscray Park\\Building L\\L4\\Footscray Park-Building L-L4.floor.json"
   ]
 }

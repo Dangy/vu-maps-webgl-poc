@@ -8,9 +8,9 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/St Albans\\Building 4\\4-1\\St Albans-Building 4-4-1.floor.json",
-    "\\_Maps/St Albans\\Building 4\\4-2\\St Albans-Building 4-4-2.floor.json",
-    "\\_Maps/St Albans\\Building 4\\4-3\\St Albans-Building 4-4-3.floor.json",
-    "\\_Maps/St Albans\\Building 4\\4-4\\St Albans-Building 4-4-4.floor.json"
+    "\\Maps/St Albans\\Building 4\\4-1\\St Albans-Building 4-4-1.floor.json",
+    "\\Maps/St Albans\\Building 4\\4-2\\St Albans-Building 4-4-2.floor.json",
+    "\\Maps/St Albans\\Building 4\\4-3\\St Albans-Building 4-4-3.floor.json",
+    "\\Maps/St Albans\\Building 4\\4-4\\St Albans-Building 4-4-4.floor.json"
   ]
 }

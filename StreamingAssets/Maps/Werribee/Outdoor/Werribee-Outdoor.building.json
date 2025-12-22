@@ -8,6 +8,6 @@
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Floors": [
-    "\\_Maps/Werribee\\Outdoor\\Outdoor\\Werribee-Outdoor-Outdoor.floor.json"
+    "\\Maps/Werribee\\Outdoor\\Outdoor\\Werribee-Outdoor-Outdoor.floor.json"
   ]
 }

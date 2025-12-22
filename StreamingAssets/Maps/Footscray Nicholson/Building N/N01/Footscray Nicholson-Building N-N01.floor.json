@@ -3,7 +3,7 @@
   "IsVisible": true,
   "DisplayName": "Level 1",
   "HierarchyName": "Footscray Nicholson>Building N>N01",
-  "SVG_String": "\\_Maps/Footscray Nicholson\\Building N\\N01\\Footscray Nicholson-Building N-N01.svg",
+  "SVG_String": "\\Maps/Footscray Nicholson\\Building N\\N01\\Footscray Nicholson-Building N-N01.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,

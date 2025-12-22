@@ -3,11 +3,11 @@
   "IsVisible": true,
   "DisplayName": "Metro West",
   "HierarchyName": "Metro West",
-  "SVG_String": "\\_Maps/Metro West\\Metro West.svg",
+  "SVG_String": "\\Maps/Metro West\\Metro West.svg",
   "LatitudeOfMapCentre": 0.0,
   "LongitudeOfMapCentre": 0.0,
   "MapScale": 0.0,
   "Buildings": [
-    "\\_Maps/Metro West\\Metro West\\Metro West-Metro West.building.json"
+    "\\Maps/Metro West\\Metro West\\Metro West-Metro West.building.json"
   ]
 }
